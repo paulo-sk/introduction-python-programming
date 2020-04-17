@@ -1,0 +1,5 @@
+60 = 111100
+>> 2 = joga todos os numeros para direita em 2 posicoes(colocar 00, no lugar)
+<< 3 = pra esquerda em 3 posiçoes(coloca 000 no lugar)
+60 >> 2 = 001111 = 15 
+60 << 3 = 111100000 = 480
